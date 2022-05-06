@@ -1,0 +1,7 @@
+# [Create] Sat May 07 2022 05:20:24 GMT+0900 (Japan Standard Time)
+# [Language] asm
+#
+# Sprite/Tile data for Assembler (RGBDS)
+# Tiles:
+db $3C,$3C,$42,$7E,$A1,$DF,$81,$FF,$81,$FF,$81,$FF,$42,$7E,$3C,$3C,
+# TilesEnd:

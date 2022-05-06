@@ -1,7 +1,0 @@
-# [Create] Fri May 06 2022 19:49:51 GMT+0900 (Japan Standard Time)
-# [FileName] sample1
-#
-# Sprite/Tile data for assembler (RGBDS)
-# Tiles:
-db $3c,$3c,$42,$7e,$a1,$df,$81,$ff,$81,$ff,$81,$ff,$42,$7e,$3c,$3c,
-# TilesEnd:
