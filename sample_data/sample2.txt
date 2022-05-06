@@ -1,7 +1,0 @@
-# [Create] Fri May 06 2022 19:55:17 GMT+0900 (Japan Standard Time)
-# [FileName] new_tiles
-#
-# Sprite/Tile data for assembler (RGBDS)
-# Tiles:
-db $00,$00,$00,$7e,$00,$42,$00,$42,$00,$42,$00,$42,$00,$7e,$00,$00,
-# TilesEnd:
