@@ -1,10 +1,12 @@
-# [Create] Sat May 14 2022 17:57:23 GMT+0900 (Japan Standard Time)
+# [Create] Mon May 09 2022 02:04:57 GMT+0900 (Japan Standard Time)
 # [FileName] asm
 # [Language] c
-# [EditSize] 16x16
 #
 # [editor_data]
-# *"editor_data" is obsolete and will not be imported.
+# Sprite/Tile data for C/C++
+# {
+0x3C,0x3C,0x7E,0x42,0xDF,0x81,0xFD,0x83,0xFD,0x83,0xF9,0x87,0x62,0x5E,0x3C,0x3C,
+# }
 # [editor_data_ended]
 #
 # [clipboard_data]

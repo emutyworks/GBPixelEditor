@@ -1,10 +1,12 @@
-# [Create] Sat May 14 2022 17:56:54 GMT+0900 (Japan Standard Time)
+# [Create] Mon May 09 2022 02:04:51 GMT+0900 (Japan Standard Time)
 # [FileName] asm
 # [Language] asm
-# [EditSize] 16x16
 #
 # [editor_data]
-# *"editor_data" is obsolete and will not be imported.
+# Sprite/Tile data for Assembler (RGBDS)
+# Tiles:
+db $3C,$3C,$7E,$42,$DF,$81,$FD,$83,$FD,$83,$F9,$87,$62,$5E,$3C,$3C,
+# TilesEnd:
 # [editor_data_ended]
 #
 # [clipboard_data]
